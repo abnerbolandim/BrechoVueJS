@@ -94,33 +94,26 @@
 				<img
 					src="../assets/carouselimg01.png"
 					class="d-block w-100"
-					alt="img01"
+					alt="..."
 				/>
 			</div>
 			<div class="carousel-item">
 				<img
 					src="../assets/carouselimg02.png"
 					class="d-block w-100"
-					alt="img02"
+					alt="..."
 				/>
 			</div>
 			<div class="carousel-item">
 				<img
 					src="../assets/carouselimg03.png"
 					class="d-block w-100"
-					alt="img03"
-				/>
-			</div>
-			<div class="carousel-item">
-				<img
-					src="../assets/carouselimg04.png"
-					class="d-block w-100"
-					alt="img04"
+					alt="..."
 				/>
 			</div>
 		</div>
 		<button
-			class="carousel-prev"
+			class="carousel-control-prev"
 			type="button"
 			data-bs-target="#carousel-retro"
 			data-bs-slide="prev"
@@ -129,7 +122,7 @@
 			<span class="visually-hidden">Previous</span>
 		</button>
 		<button
-			class="carousel-next"
+			class="carousel-control-next"
 			type="button"
 			data-bs-target="#carousel-retro"
 			data-bs-slide="next"
